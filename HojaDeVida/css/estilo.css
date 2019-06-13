@@ -1,0 +1,13 @@
+h1{
+	color:#86FF33;
+}
+body{
+	background-color:Black;
+	color:White;
+}
+
+.columna{
+	
+	column-count:3;
+	text-align:left;
+}
